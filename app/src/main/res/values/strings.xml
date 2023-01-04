@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">InClass2</string>
+    <string name="labelMainScrn">Enter New Books</string>
+    <string name="addBtn">Add</string>
+    <string name="saveBtn">Save All</string>
+    <string name="pagesBtn">Pages</string>
+    <string name="authorHint">Author Name</string>
+    <string name="titleHint">Book Title</string>
 </resources>
